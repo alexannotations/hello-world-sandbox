@@ -14,5 +14,8 @@ Resolving conflicts between modificando-readme and master and committing changes
 
 Probando Otro cambio despues del commit sin cerrar la rama.
 
-[![Alexayca's github stats](https://github-readme-stats.vercel.app/api?username=alexayca)](https://github.com/anuraghazra/github-readme-stats)
+
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexayca&layout=compact&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
