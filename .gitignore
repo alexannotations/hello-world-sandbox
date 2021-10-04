@@ -4,6 +4,7 @@
 
 ### VisualStudioCode ###
 .vscode/*
+# en este caso se hace una excepción a los archivos con !
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
