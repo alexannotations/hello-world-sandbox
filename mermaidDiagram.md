@@ -12,7 +12,7 @@ sequenceDiagram
     Bob-->>John: Jolly good!
     ```
     
-    It's OK
+
     
     
 ```mermaid
