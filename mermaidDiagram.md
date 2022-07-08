@@ -10,7 +10,7 @@ sequenceDiagram
     John-->>Alice: Great!
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
-    ```
+```
     
 
     
@@ -30,15 +30,15 @@ classDiagram
         Class01 : int chimp
         Class01 : int gorilla
         Class08 <--> C2: Cool label
-    ```
+```
     
     # and other diagram
     
-    ```mermaid
+```mermaid
     erDiagram
     CUSTOMER ||--o{ ORDER : places
     ORDER ||--|{ LINE-ITEM : contains
     CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
-    ```
+```
     
     
