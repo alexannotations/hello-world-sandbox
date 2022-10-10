@@ -14,14 +14,14 @@ CREATE USER IF NOT EXISTS
 		TO 'query_user'@'localhost'
 		;
 
-/* usuario CRUD on column of Tables  */
+/* usuario CRU on column of Tables  */
 CREATE USER IF NOT EXISTS
-	'table_user'@'localhost'
+	'tableColumn_user'@'localhost'
 	;
     /* DELETE entra en conflicto con los privilegios a nivel columna */
-	GRANT SELECT(ID,name,first,dress), INSERT(ID), UPDATE (name, first)
-		ON test.testing /* conclusion, hora de entrega, valuaciones */
-		TO 'table_user'@'localhost'
+	GRANT SELECT(city), INSERT(city)
+		ON test.Persons /* conclusion, hora de entrega, valuaciones */
+		TO 'tableColumn_user'@'localhost'
 		;
 
 	
