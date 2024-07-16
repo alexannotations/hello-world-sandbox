@@ -20,3 +20,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexannotations&layout=compact&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cafa07ef-d407-4cf3-a235-06ed1bbb01ab/deploy-status)](https://app.netlify.com/sites/lexayca/deploys)
+
